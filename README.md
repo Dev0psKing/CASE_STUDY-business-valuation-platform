@@ -1,4 +1,4 @@
-# SME Business Valuation Intelligence Platform
+# SME Business Valuation Intelligence Platform — A Case Study
 
 **A digital business valuation intelligence platform that estimates the value of small and medium-sized enterprises (SMEs), explains the drivers behind that value, and shows owners a concrete path to increase it.**
 
