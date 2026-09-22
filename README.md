@@ -21,6 +21,7 @@
 
 ---
 
+
 ## The Problem
 
 Small and medium-sized business owners often don't know what their businesses are worth. This knowledge gap has real, expensive consequences:
