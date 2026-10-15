@@ -5,7 +5,6 @@
 **Role:** Product Strategist & Systems Designer
 
 ---
-
 ## Table of Contents
 
 - [The Problem](#the-problem)
